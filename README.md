@@ -1,43 +1,10 @@
-### Hi there, I'm [Hemant Saini!] 👋.  
+### Hi there, I'm [Hemant Saini!] 👋. 
 
-p align=center
-   
-   img src=httpsmedia.giphy.commediaWUlplcMpOCEmTGBtBWgiphy.gif width=30 Full Stack Developer  Backend Developer  Programming  img src=httpsmedia.giphy.commediaWUlplcMpOCEmTGBtBWgiphy.gif width=30
-p
-
- p align=center
-  a href=httpswww.linkedin.cominhemant-saini-2158a01a5
-    img align=left alt=Linkedin width=22px src=httpscdn.jsdelivr.netnpmsimple-icons@v3iconslinkedin.svg 
-  a
-   a href=httpswww.instagram.comhemant__saini__
-    img align=left alt=Instagram width=22px src=httpscdn.jsdelivr.netnpmsimple-icons@v3iconsinstagram.svg 
-  a
-p
-
-br 
-img align=right height=270px width=450px alt=GIF src=httpsmedia.giphy.commedia12BYUePgtn7sisgiphy.gif 
-p align=center
-  h3 A self-motivated undergraduate with good knowledge and proficiency in Python, ReactJS and JavaScript as well as strong skills and ability in writing clean and efficient code. h3
-p
-
- - 🥀 
-
- - 🔭 
-
- - 🛸
-
- - 💬 
-
-
-p align=center 
-  a href=httpsgithub.comanuraghazragithub-readme-stats 
-    img  src=httpsgithub-readme-stats.vercel.appapiusername=hemantsaini-7&&show_icons=true&theme=radical
-  a
-p
-
-
-
-br 
+- 🎓Recent computer science graduate from UNC - Chapel Hill
+- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
+- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
+- :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
+- :mailbox: You can reach me with the links below 
 
 
 ##### Languages I use
@@ -74,29 +41,12 @@ br
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
-### - Languages and Tools...
 
-p align=center
-  !-- For more icons please follow  httpsgithub.comMikeCodesDotNETColoredBadges --
-     img src=httpsraw.githubusercontent.com8bithemant8bithemantmastersvgdevlanguagespython.svg alt=python style=vertical-aligntop; margin4px
-     img src=httpsraw.githubusercontent.com8bithemant8bithemantmastersvgdevframeworksreact.svg alt=react style=vertical-aligntop; margin4px
-     img src=httpsraw.githubusercontent.com8bithemant8bithemantmastersvgdevlanguagesjs.svg alt=js style=vertical-aligntop; margin4px
-     img src=httpsraw.githubusercontent.com8bithemant8bithemantmastersvgdevservicesnpm.svg alt=npm style=vertical-aligntop; margin4px  img src=httpsraw.githubusercontent.com8bithemant8bithemantmastersvgdevmiscchrome.svg alt=chrome style=vertical-aligntop; margin4px
-     img src=httpsraw.githubusercontent.com8bithemant8bithemantmastersvgdevlanguageshtml.svg alt=html style=vertical-aligntop; margin4px 
-  img src=httpsraw.githubusercontent.com8bithemant8bithemantmastersvgdevmisccloud.svg alt=cloud style=vertical-aligntop; margin4px
-
-  img src=httpsraw.githubusercontent.com8bithemant8bithemantmastersvgdevservicesaws.svg alt=aws style=vertical-aligntop; margin4px
-
-  img src=httpsraw.githubusercontent.com8bithemant8bithemantmastersvgdevtoolsvisualstudio_code.svg alt=vscode style=vertical-aligntop; margin4px
-   
-
-
-
-
-
-
-p
-
+How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-byte/)](https://www.linkedin.com/in/raghav-byte/) 
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:shuklaraghav321@gmail.com)
+,[![Twitter Badge](https://img.shields.io/badge/-Raghav-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_raghavit)](https://twitter.com/_raghavit)
+- ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 
 
