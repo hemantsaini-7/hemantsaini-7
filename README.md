@@ -5,7 +5,6 @@
 - 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
 - :mailbox: You can reach me with the links below 
-- How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemant-saini-2158a01a5/)](https://www.linkedin.com/in/hemant-saini-2158a01a5/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsainioff@gmail.com)](mailto:hsainioff@gmail.com)
 
@@ -34,7 +33,7 @@
 
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=8bithemant&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=hemantsaini-7&&show_icons=true&theme=radical"/>
   </a>
 </p>
 
