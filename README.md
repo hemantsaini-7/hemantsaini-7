@@ -1,10 +1,10 @@
 ### Hi there, I'm [Hemant Saini!] 👋. 
 
-- 🎓Recent computer science graduate from UNC - Chapel Hill
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
-- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
-- :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
-- :mailbox: You can reach me with the links below 
+- 🎓
+- :test_tube:
+- 🪐
+- :speech_balloon:
+- :mailbox: You can reach me with the links 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemant-saini-2158a01a5/)](https://www.linkedin.com/in/hemant-saini-2158a01a5/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsainioff@gmail.com)](mailto:hsainioff@gmail.com)
 
@@ -25,10 +25,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-
-
-
-
 
 
 <p align="center" >
