@@ -1,8 +1,8 @@
 ### Hi there, I'm [Hemant Saini!] 👋. 
 
-- 🎓
-- :test_tube:
-- 🪐
+- 🎓 Computer Science at IIIT Surat.
+- :test_tube: MERN Stack | BackendDev | Programmer.
+- 🪐 
 - :speech_balloon:
 - :mailbox: You can reach me with the links 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemant-saini-2158a01a5/)](https://www.linkedin.com/in/hemant-saini-2158a01a5/) 
