@@ -1,9 +1,9 @@
 ### Hi there, I'm [Hemant Saini!] 👋. 
 
+- 🪐 A self-motivated undergraduate with good knowledge and proficiency in Python and C++ as well as strong skills and ability in writing clean and efficient code.
 - 🎓 Computer Science at IIIT Surat.
-- :test_tube: MERN Stack | BackendDev | Programmer.
-- 🪐 
-- :speech_balloon:
+- :test_tube: MERN Stack | BackendDev | Programmer. 
+- :speech_balloon:Portfolio : 
 - :mailbox: You can reach me with the links 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemant-saini-2158a01a5/)](https://www.linkedin.com/in/hemant-saini-2158a01a5/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsainioff@gmail.com)](mailto:hsainioff@gmail.com)
