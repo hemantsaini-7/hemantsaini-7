@@ -25,7 +25,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-![MongoDb]https://img.shields.io/badge/-mongodb-222222?style=flat&logo=mongodb&logoColor=0769AD
+![MongoDb](https://img.shields.io/badge/-mongodb-222222?style=flat&logo=mongodb&logoColor=0769AD)
 
 
 <p align="center" >
