@@ -4,10 +4,11 @@
 - 🎓 ECE undergraduate at IIIT Surat.
 - :test_tube: MERN Stack | BackendDev | Programmer. 
 - :speech_balloon: Portfolio : 
-- :mailbox: You can reach me with the links   
-     [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemant-saini-2158a01a5/)](https://www.linkedin.com/in/hemant-saini-2158a01a5/) 
- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsainioff@gmail.com)](mailto:hsainioff@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hemant__saini__/)](https://www.instagram.com/hemant__saini__/) 
+- :mailbox: You can reach me with the links :->
+
+     [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemant-saini-2158a01a5/)]      (https://www.linkedin.com/in/hemant-saini-2158a01a5/) 
+     [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsainioff@gmail.com)](mailto:hsainioff@gmail.com)
+     [![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hemant__saini__/)]             (https://www.instagram.com/hemant__saini__/) 
 
 
 ##### Languages I use
@@ -16,7 +17,7 @@
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-222222?style=flat&logo=bootstrap&logoColor=0769AD)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrap&logoColor=0769AD)
 
 ##### Some of the technologies I have worked with
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
@@ -27,7 +28,7 @@
 ##### Database
 ![MongoDb](https://img.shields.io/badge/-Mongodb-222222?style=flat&logo=Mongodb&logoColor=0769AD)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-### `MERN STACK`,  `DJANGO STACK`
+## `MERN STACK`,  `DJANGO STACK`
 
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
