@@ -1,7 +1,7 @@
 ### Hi there, I'm [Hemant Saini!] 👋. 
 
-- 🪐 A self-motivated undergraduate with good knowledge and proficiency in Python and C++ as well as strong skills and ability in writing clean and efficient code.
-- 🎓 ECE undergraduate at IIIT Surat.
+- 🪐 A self-motivated undergraduate with good knowledge and proficiency in Python, JavaScript and C++, as well as strong skills and ability in writing clean and efficient code.
+- 🎓 ECE undergraduate at IIIT Surat(3rd Year).
 - :test_tube: MERN Stack | BackendDev | Programmer. 
 - :speech_balloon: Portfolio : 
 - :mailbox: You can reach me with the links :->
