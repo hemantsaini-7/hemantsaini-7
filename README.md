@@ -15,8 +15,8 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-html-222222?style=flat&logo=html&logoColor=61DAFB)
-![CSS3](https://img.shields.io/badge/-css-222222?style=flat&logo=css&logoColor=0769AD)
+![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=HTML5&logoColor=61DAFB)
+![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=CSS3&logoColor=0769AD)
 
 ##### Frameworks/Libraries :
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
