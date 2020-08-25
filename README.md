@@ -22,6 +22,7 @@
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrap&logoColor=0769AD)
+![Express](https://img.shields.io/badge/-Express-222222?style=flat&logo=Express&logoColor=61DAFB)
 
 ##### Technologies :
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
