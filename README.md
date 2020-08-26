@@ -37,10 +37,10 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ### `MERN STACK`,  `DJANGO STACK`
 
-<p align="center" >
+<!--<p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=hemantsaini-7&&show_icons=true&theme=radical"/>
   </a>
-</p>
+</p>-->
 
 #### Thank You-🙏🏼
