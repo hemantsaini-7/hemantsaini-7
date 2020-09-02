@@ -2,7 +2,7 @@
 
 - 🪐 A self-motivated undergraduate with good knowledge and proficiency in Python, JavaScript and C++, as well as strong skills and ability in writing clean and efficient code.
 - 🎓 ECE undergraduate at IIIT Surat(3rd Year).
-- :test_tube: MERN Stack | Competitive Programmer. 
+- :test_tube: MERN Stack Developer | Competitive Programmer. 
 - :speech_balloon: Portfolio : 
 - :mailbox: You can reach me with the links :->
 
