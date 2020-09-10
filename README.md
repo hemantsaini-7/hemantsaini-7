@@ -36,13 +36,12 @@
 ![MongoDb](https://img.shields.io/badge/-Mongodb-222222?style=flat&logo=Mongodb&logoColor=0769AD)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-##### Stack :
-``MERN STACK``,  ``DJANGO STACK``
+<!-- ##### Stack :
+``MERN STACK``,  ``DJANGO STACK``-->
 
 <!--<p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=hemantsaini-7&&show_icons=true&theme=radical"/>
   </a>
-</p>-->
-
-#### Thank You-🙏🏼
+</p>
+ Thank You-🙏🏼-->
