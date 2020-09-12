@@ -36,6 +36,10 @@
 ![MongoDb](https://img.shields.io/badge/-Mongodb-222222?style=flat&logo=Mongodb&logoColor=0769AD)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
+<!--![Hemant github stats](https://github-readme-stats.vercel.app/api?username=hemantsaini-7&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsaini-7&layout=compact&show_icons=true&count_private=true)-->
+
+
 <!-- ##### Stack :
 ``MERN STACK``,  ``DJANGO STACK``-->
 
