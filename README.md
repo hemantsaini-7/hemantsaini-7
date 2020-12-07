@@ -1,10 +1,10 @@
 ### Hi there, I'm [Hemant Saini!] 👋. 
 
-- 🪐 A self-motivated undergraduate with good knowledge and proficiency in Python, JavaScript and C++, as well as strong skills and ability in writing clean and efficient code.
+- 🪐 Enthusiastic and self-motivated web developer having good knowledge and proficiency in JavaScript, C++ & Python with strong
+technical skills and ability in writing clean and efficient code.
 - 🎓 ECE undergraduate at IIIT Surat(3rd Year).
 - :test_tube: MERN Stack Developer | Competitive Programmer. 
-- :mailbox:   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemant-saini-2158a01a5/)](https://www.linkedin.com/in/hemant-saini-2158a01a5/)   
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsainioff@gmail.com)](mailto:hsainioff@gmail.com)
+- :mailbox:   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemant-saini-2158a01a5/)](https://www.linkedin.com/in/hemant-saini-2158a01a5/) - [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsainioff@gmail.com)](mailto:hsainioff@gmail.com)
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hemant__saini__/)](https://www.instagram.com/hemant__saini__/) -->
 
 
