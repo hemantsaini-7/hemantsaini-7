@@ -3,12 +3,11 @@
 - 🪐 A self-motivated undergraduate with good knowledge and proficiency in Python, JavaScript and C++, as well as strong skills and ability in writing clean and efficient code.
 - 🎓 ECE undergraduate at IIIT Surat(3rd Year).
 - :test_tube: MERN Stack Developer | Competitive Programmer. 
-- :speech_balloon: Portfolio : 
 - :mailbox: You can reach me with the links :->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemant-saini-2158a01a5/)](https://www.linkedin.com/in/hemant-saini-2158a01a5/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsainioff@gmail.com)](mailto:hsainioff@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hemant__saini__/)](https://www.instagram.com/hemant__saini__/)              
+<!-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsainioff@gmail.com)](mailto:hsainioff@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hemant__saini__/)](https://www.instagram.com/hemant__saini__/) -->             
 
 
 ##### Languages :
