@@ -15,8 +15,6 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=HTML5&logoColor=61DAFB)
-![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=CSS3&logoColor=0769AD)
 
 ##### Frameworks/Libraries :
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
@@ -43,9 +41,9 @@
 <!-- ##### Stack :
 ``MERN STACK``,  ``DJANGO STACK``-->
 
-<!--<p align="center" >
+<p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=hemantsaini-7&&show_icons=true&theme=radical"/>
   </a>
 </p>
- Thank You-🙏🏼-->
+ <!-- Thank You-🙏🏼-->
