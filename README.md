@@ -19,20 +19,20 @@
 ##### Frameworks/Libraries :
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=Redux&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrap&logoColor=0769AD)
-![Express](https://img.shields.io/badge/-Express-222222?style=flat&logo=Express&logoColor=61DAFB)
+<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrap&logoColor=0769AD)
+![Express](https://img.shields.io/badge/-Express.js-222222?style=flat&logo=Express&logoColor=61DAFB) -->
 
-##### Technologies :
+<!-- ##### Technologies :
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![NPM](https://img.shields.io/badge/-npm-222222?style=flat&logo=npm&logoColor=F05032)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode) -->
 
-##### Database :
+<!-- ##### Database :
 ![MongoDb](https://img.shields.io/badge/-Mongodb-222222?style=flat&logo=Mongodb&logoColor=0769AD)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql) -->
 
 <!--![Hemant github stats](https://github-readme-stats.vercel.app/api?username=hemantsaini-7&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsaini-7&layout=compact&show_icons=true&count_private=true)-->
