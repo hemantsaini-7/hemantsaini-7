@@ -5,8 +5,7 @@ technical skills and ability in writing clean and efficient code.
 - 🎓 ECE undergraduate at IIIT Surat(3rd Year).
 - :test_tube: MERN Stack Developer | devProgrammer. 
 <!--- :mailbox:-->   
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemant-saini-2158a01a5/)](https://www.linkedin.com/in/hemant-saini-2158a01a5/) -X- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsainioff@gmail.com)](mailto:hsainioff@gmail.com)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemant-saini-2158a01a5/)](https://www.linkedin.com/in/hemant-saini-2158a01a5/) -X- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsainioff@gmail.com)](mailto:hsainioff@gmail.com)
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hemant__saini__/)](https://www.instagram.com/hemant__saini__/) -->
 
 <!--
@@ -34,15 +33,15 @@ technical skills and ability in writing clean and efficient code.
 ![MongoDb](https://img.shields.io/badge/-Mongodb-222222?style=flat&logo=Mongodb&logoColor=0769AD)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql) -->
 
-<!--![Hemant github stats](https://github-readme-stats.vercel.app/api?username=hemantsaini-7&show_icons=true&theme=radical&count_private=true)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsaini-7&layout=compact&show_icons=true&count_private=true)-->
+![Hemant github stats](https://github-readme-stats.vercel.app/api?username=hemantsaini-7&show_icons=true&theme=radical&count_private=true)
+ <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsaini-7&layout=compact&show_icons=true&count_private=true) -->
 
 <!-- ##### Stack :
 ``MERN STACK``,  ``DJANGO STACK``-->
 
-<p align="center" >
+<!--<p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=hemantsaini-7&&show_icons=true&theme=radical"/>
   </a>
-</p>
+</p> -->
  <!-- Thank You-🙏🏼-->
