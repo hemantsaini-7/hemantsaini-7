@@ -1,7 +1,6 @@
 ### Hi there, I'm [Hemant Saini!] 👋. 
 
-- 🪐 Enthusiastic and self-motivated web developer having good knowledge and proficiency in JavaScript, C++ & Python with strong
-technical skills and ability in writing clean and efficient code.
+- 🪐 Tech enthusiastic and self-motivated developer having good knowledge and proficiency in Full-Stack JavaScript & C++ with strong technical skills and ability in writing clean and efficient code.
 - 🎓 ECE undergraduate at IIIT Surat(3rd Year).
 - :test_tube: MERN Stack Developer | devProgrammer. 
 <!--- :mailbox:-->   
