@@ -1,8 +1,8 @@
 ### Hi there, I'm [Hemant Saini!] 👋. 
 
 - 🪐 Tech enthusiastic and self-motivated developer having good knowledge and proficiency in Full-Stack JavaScript & C++ with strong technical skills and ability in writing clean and efficient code.
-- 🎓 ECE undergraduate at IIIT Surat(3rd Year).
-- :test_tube: MERN Stack Developer | devProgrammer. 
+- 🎓 Undergraduate IIIT Surat(3rd Year).
+- :test_tube: MERN Stack Developer | Programmer. 
 <!--- :mailbox:-->   
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemant-saini-2158a01a5/)](https://www.linkedin.com/in/hemant-saini-2158a01a5/) -X- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsainioff@gmail.com)](mailto:hsainioff@gmail.com)
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hemant__saini__/)](https://www.instagram.com/hemant__saini__/) -->
