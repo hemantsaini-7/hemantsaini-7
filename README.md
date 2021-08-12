@@ -1,8 +1,7 @@
 ### Hi there, I'm [Hemant Saini!] 👋. 
 
-- 🪐 Tech enthusiastic and self-motivated software developer having good knowledge and proficiency in Full- Stack JavaScript & C++ with strong technical & problem-solving skills having ability in writing clean and
-efficient code.
-- 🎓 Software Developer | Full-Stack.
+- 🪐 Software developer having good knowledge and proficiency in Full-Stack JavaScript with solid understanding of Front-End technologies, MVC frameworks and Restful web services.
+- 🎓 MERN-Stack Developer | Open-Source Contributions
 <!--- :test_tube: Software Developer | Full-Stack. -->
 <!--- :mailbox:-->   
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemant-saini-2158a01a5/)](https://www.linkedin.com/in/hemant-saini-2158a01a5/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsainioff@gmail.com)](mailto:hsainioff@gmail.com)
