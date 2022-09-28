@@ -1,10 +1,10 @@
 ### Hi there, I'm [Hemant Saini!] 👋. 
 
-- 🪐 Software Developer having good knowledge and proficiency in Full-Stack Technologies, Restful web-services, and MVC frameworks.
-- 🎓 IIIT Surat'22
-<!--- :test_tube: Software Developer | Full-Stack. -->
+- 🪐 Enthusiastic Software Engineer eager to contribute to team success through hard work, attention to detail and excellent organisational skills. I'm diligent worker with strong communication and task prioritisation skills, experienced in backend, data technologies.
+- 🎓 Engineering @Red Hat | IIIT Surat'22
+<!--- :test_tube: Software | Data | Cloud -->
 <!--- :mailbox:-->   
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemant-saini-2158a01a5/)](https://www.linkedin.com/in/hemant-saini-2158a01a5/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsainioff@gmail.com)](mailto:hsainioff@gmail.com)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemant-saini-2158a01a5/)](https://www.linkedin.com/in/hemxntsaini/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsainioff@gmail.com)](mailto:hemxntsaini@gmail.com)
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hemant__saini__/)](https://www.instagram.com/hemant__saini__/) -->
 
 <!--
