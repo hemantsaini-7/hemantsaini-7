@@ -1,46 +1,35 @@
-### Hi there, I'm [Hemant Saini!] 👋. 
+### Hi there, I'm Hemant Saini 👋
 
-- 🪐 Enthusiastic Software Engineer eager to contribute to team success through hard work, attention to detail and excellent organisational skills. I'm diligent worker with strong communication and task prioritisation skills, experienced in backend, data technologies.
-- 🎓 Engineering @Red Hat | IIIT Surat'22
-<!--- :test_tube: Software | Data | Cloud -->
-<!--- :mailbox:-->   
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemant-saini-2158a01a5/)](https://www.linkedin.com/in/hemxntsaini/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsainioff@gmail.com)](mailto:hemxntsaini@gmail.com)
-<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hemant__saini__/)](https://www.instagram.com/hemant__saini__/) -->
+- <p>🎓 Software Engineer- Backend @Hybr1d.io | Ex-Red Hat | IIIT Surat'22 </p>
+- <p> 🪐 I'm software engineer passionate about developing innovative programs that solve complex problems and improve organizational efficiency. I specialize in writing reliable and user-friendly code to deliver customized software solutions that meet specific business needs. My focus is to help organizations achieve their goals by developing cutting-edge software that enhances productivity, streamlines processes, and drives growth. </p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemant-saini-2158a01a5/)](https://www.linkedin.com/in/hemxntsaini/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsainioff@gmail.com)](mailto:hemxntsaini@gmail.com) 
 
-<!--
-##### Languages :
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) -->
+<hr />
 
-<!--
-##### Frameworks/Libraries :
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=Redux&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrap&logoColor=0769AD)
-![Express](https://img.shields.io/badge/-Express.js-222222?style=flat&logo=Express&logoColor=61DAFB) -->
+### Tech  👨‍💻
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js)
+![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=postgresql)
+![Express](https://img.shields.io/badge/-Express.js-222222?style=flat&logo=Express)
+![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
+![AWS](https://img.shields.io/badge/-AWS-222222?style=flat&logo=AWS)
+![MongoDb](https://img.shields.io/badge/-Mongodb-222222?style=flat&logo=Mongodb)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React)
+<br />
+![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=Redux)
+![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
+![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker)
+![Serverless](https://img.shields.io/badge/-Serverless-222222?style=flat&logo=serverless)
+![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrap)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git)
 
-<!-- ##### Technologies :
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![NPM](https://img.shields.io/badge/-npm-222222?style=flat&logo=npm&logoColor=F05032)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode) -->
+<hr />
 
-<!-- ##### Database :
-![MongoDb](https://img.shields.io/badge/-Mongodb-222222?style=flat&logo=Mongodb&logoColor=0769AD)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql) -->
+### Github Stats 📊
 
-![Hemant github stats](https://github-readme-stats.vercel.app/api?username=hemantsaini-7&show_icons=true&theme=radical&count_private=true)
- <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsaini-7&layout=compact&show_icons=true&count_private=true) -->
+<a href="https://github.com/hemantsaini-7/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hemant Saini's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hemantsaini-7&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+<a href="https://github.com/hemantsaini-7/github-readme-stats"><img alt="Latest Github Stats" src="https://github-readme-stats.vercel.app/api?username=hemantsaini-7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
 
-<!-- ##### Stack :
-``MERN STACK``,  ``DJANGO STACK``-->
+<!-- ![Hemant github stats](https://github-readme-stats.vercel.app/api?username=hemantsaini-7&show_icons=true&theme=radical&count_private=true&theme=react&hide_border=true&bg_color=000000") -->
 
-<!--<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=hemantsaini-7&&show_icons=true&theme=radical"/>
-  </a>
-</p> -->
- <!-- Thank You-🙏🏼-->
+<!-- <a href="https://github.com/hemantsaini-7/github-readme-stats"><img alt="Hemant Saini's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsaini-7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a> -->
